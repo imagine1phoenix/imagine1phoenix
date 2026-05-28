@@ -1,22 +1,13 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=imagine1phoenix&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20GenAI%20Enthusiast%20%7C%20Freelance%20Founder&descAlignY=58&descSize=16&animation=fadeIn" />
 
-</div>
-
----
-
-### 👋 Hey, I'm **Aditya** *(a.k.a. imagine1phoenix)*
+### 👋 Hey, I'm **Prit** *(a.k.a. imagine1phoenix)*
 
 > *"Still compiling... but the logic is sound."*
 
-I'm a **2nd-year B.Tech CSE student** specializing in **Generative AI**, currently grinding through DSA for **ICPC**, building things that (sometimes) work, and running a freelance agency on the side. I write code, break it, fix it, and occasionally ship it.
+I'm a **1nd-year B.Tech** specializing in **Generative AI**, currently grinding through DSA for **ICPC**, building things that (sometimes) work, and running a freelance agency on the side. I write code, break it, fix it, and occasionally ship it.
 
 - 🎯 Currently training for **ICPC** — one contest at a time
-- 🤖 Deep interest in **Generative AI, LLMs, and AI tooling**
-- 🏢 Founder @ [**rawgenn.tech**](https://rawgenn.tech) — a managed freelance agency
-- 🧠 Long-term goal: **GATE → M.Tech in AI/ML**
 - ⚡ Fun fact: I debug better at night. The bugs know it too.
 
 ---
